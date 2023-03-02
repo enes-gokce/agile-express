@@ -1,0 +1,60 @@
+dn: dc=asbnotebook,dc=com
+objectclass: top
+objectclass: domain
+objectclass: extensibleObject
+dc: asbnotebook
+
+dn: ou=groups,dc=asbnotebook,dc=com
+objectclass: top
+objectclass: organizationalUnit
+ou: groups
+
+dn: uid=arun.gokce,ou=groups,dc=asbnotebook,dc=com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+cn: Arun Gokce
+sn: Arun
+uid: arun.gokce
+userPassword: 12345
+
+dn: uid=deniz.aldikacti,ou=groups,dc=asbnotebook,dc=com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+cn: Deniz Aldikacti
+sn: Deniz
+uid: deniz.aldikacti
+userPassword: 12345
+
+dn: uid=ilkem.erol,ou=groups,dc=asbnotebook,dc=com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+cn: İlkem Erol
+sn: İlkem
+uid: ilkem.erol
+userPassword: 12345
+
+dn: uid=admin,ou=groups,dc=asbnotebook,dc=com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+cn: Admin
+sn: Admin
+uid: admin
+userPassword: 12345
+
+dn: uid=sara.federer,ou=groups,dc=asbnotebook,dc=com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+cn: Sara Federer
+sn: Sara
+uid: sara.federer
+userPassword: 12345
