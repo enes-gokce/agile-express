@@ -29,26 +29,6 @@ sn: Deniz
 uid: deniz.aldikacti
 userPassword: 12345
 
-dn: uid=ilkem.erol,ou=groups,dc=asbnotebook,dc=com
-objectclass: top
-objectclass: person
-objectclass: organizationalPerson
-objectclass: inetOrgPerson
-cn: İlkem Erol
-sn: İlkem
-uid: ilkem.erol
-userPassword: 12345
-
-dn: uid=admin,ou=groups,dc=asbnotebook,dc=com
-objectclass: top
-objectclass: person
-objectclass: organizationalPerson
-objectclass: inetOrgPerson
-cn: Admin
-sn: Admin
-uid: admin
-userPassword: 12345
-
 dn: uid=sara.federer,ou=groups,dc=asbnotebook,dc=com
 objectclass: top
 objectclass: person
