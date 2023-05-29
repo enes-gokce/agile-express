@@ -1,0 +1,43 @@
+.dashboard-container {
+    position: relative;
+    padding: 1%;
+    margin: 2% 2% 6% 2%;
+    min-height: 96vh;
+}
+
+.navbar-container {
+    padding-left: 1%;
+    margin-left: 2%;
+}
+
+.dashboard-project {
+    position: relative;
+}
+
+.create {
+    margin-left: 1%;
+}
+
+.logout {
+    position: absolute;
+    right: 3%;
+}
+
+.card {
+    margin: 1% 2% 1% 0%;
+    display: inline-block;
+}
+
+.userDetailH2 {
+    margin-bottom: 0;
+}
+
+.roleH5 {
+    margin-top: 0;
+}
+
+.delete-project-btn {
+    position: absolute;
+    right: 3%;
+    top: 5%;
+}
